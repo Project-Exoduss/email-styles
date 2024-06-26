@@ -3,6 +3,7 @@
 
 body {
   font-family: 'Plus Jakarta Sans', sans-serif;
+  line-height: 1.6; /* Example line-height value */
 }
 
 .email-header {
