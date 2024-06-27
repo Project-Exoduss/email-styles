@@ -44,7 +44,8 @@ body {
 }
 
 .email-header-programme img {
-  height: 50px;
+  width: auto;
+  max-height: 60px;
   display: block;
   margin: auto;
 }
