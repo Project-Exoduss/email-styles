@@ -63,6 +63,11 @@ body {
   /* Bold weight */
 }
 
+.email-content h2 {
+  font-weight: 800;
+  /* Bold weight */
+}
+
 .email-button {
   display: block;
   width: 100%;
