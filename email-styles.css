@@ -5,9 +5,9 @@ body {
   font-family: 'Plus Jakarta Sans', sans-serif;
   line-height: 1.6;
   /* Example line-height value */
-  margin: 10;
-  padding: 0;
-  max-width: 600px; /* Set your desired max-width */
+  margin: 0;
+  padding: 10px;
+  max-width: 620px; /* Set your desired max-width */
   width: 100%;
   box-sizing: border-box;
   margin: 0 auto; /* Center the content horizontally */
